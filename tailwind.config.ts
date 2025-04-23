@@ -1,4 +1,4 @@
-import { color } from './src/styles/vanilla-extract.config.ts';
+import { colors } from './src/styles/vanilla-extract.config.ts';
 
 module.exports = {
   content: [
@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        ...color,
+        ...colors,
       },
     },
   },
