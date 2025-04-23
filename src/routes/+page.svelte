@@ -3,11 +3,11 @@
 </script>
 
 <div class="p-10">
-  <h1 class="text-3xl font-bold mb-8">Vanilla ExtractとTailwind CSSの両立について</h1>
+  <h1 class="text-3xl font-bold mb-8">vanilla-extractとTailwind CSSの両立について</h1>
 
   <div class="mb-16">
     <div class="mb-8">
-      <h2 class="text-xl font-bold">Vanilla Extractの役割</h2>
+      <h2 class="text-xl font-bold">vanilla-extractの役割</h2>
       <p class="mb-2">コンポーネントのスタイル、テーマ管理などに利用します。</p>
     </div>
 
@@ -52,7 +52,7 @@
   <div class="mb-16">
     <h3 class="font-bold mb-2">3. Vanilla Extractのテーマのインポートが可能</h3>
     <p>tailwind.config.tsからvanilla-extract.config.tsの設定を読み込むことが可能です。<br>
-      Vanilla Extractと共通したテーマを持つことができます。</p>
+      vanilla-extractと共通したテーマを持つことができます。</p>
   </div>
 
   <div>
